@@ -1,0 +1,11 @@
+# dependencies and libraries
+node_modules
+
+# Envirornment variable
+.env
+
+# Record and journal the progress
+journal
+
+# compiled JS code
+dist
